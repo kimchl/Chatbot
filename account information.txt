@@ -1,7 +1,0 @@
-Heroku£º
-chatbot338@gmail.com
-Chatbot123
-
-Dialogflow:
-chatbot338@gmail.com
-chatbot123
