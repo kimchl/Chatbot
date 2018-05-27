@@ -1,0 +1,109 @@
+chatbot338@gmail.com
+chatbot123
+
+First year core paper:
+145612 Applied Communication 
+COMP500 Programming 1 
+COMP501 Computing Technology in Society 
+COMP502 Foundations of IT Infrastructure 
+INFS500 Enterprise Systems 
+COMP503 Programming 2 Pre-req: COMP500
+735316 Computer Network Principles (CCNA1) 
+
+Level 5 Mathematics Paper (S1/S2) choose one from: 
+STAT500 Applied Statistics,
+MATH501 Differential & Integral Calculus,
+MATH502 Algebra & Discrete Mathematics or 
+MATH500 Mathematical Concepts 
+
+Second year core paper:
+INFS600 Data & Process Modelling Pre-req: COMP500
+INFS601 Logical Database Design Pre-req: COMP500 or ENSE501 
+COMP600 IT Project Management 
+
+Third year core paper:
+COMP702 Research & Development Project Part 1, 
+COMP703 Research & Development Project Part 2
+
+
+
+
+
+
+Software development major:
+145612 Applied Communication, 
+COMP500 Programming 1, 
+COMP501 Computing Technology in Society, 
+COMP502 Foundations of IT Infrastructure, 
+INFS500 Enterprise Systems, 
+COMP503 Programming 2,
+735316 Computer Network Principles (CCNA1),
+MATH502 Algebra & Discrete Mathematics
+
+INFS600 Data & Process Modelling, 
+INFS601 Logical Database Design, 
+COMP600 IT Project Management, 
+COMP603 Program Design & Construction, 
+COMP602 Software Development Practice,
+COMP604 Operating Systems OR INFS602 Physical Database Design, 
+
+ENSE701 Software Engineering, 
+COMP719 Applied Human Computer Interaction,
+COMP721 Web Development OR COMP713 Distributed & Mobile Systems,
+COMP702 Research & Development Project Part 1, 
+COMP703 Research & Development Project Part 2
+
+IT services:
+145612 Applied Communication, 
+COMP500 Programming 1, 
+COMP501 Computing Technology in Society, 
+COMP502 Foundations of IT Infrastructure, 
+INFS500 Enterprise Systems, 
+COMP503 Programming 2,
+735316 Computer Network Principles (CCNA1),
+MATH502 Algebra & Discrete Mathematics
+
+INFS600 Data & Process Modelling, 
+INFS601 Logical Database Design, 
+COMP600 IT Project Management, 
+COM601 IT Service Provision,
+INFS603 Needs Analysis Acquisition& Training,
+COMP603 Network &System Administration OR COMP607 Information Security Technologies,
+
+INFS701 IT Strategy and Control
+INFS702 IT Service Management
+COMP718 Information Security Management OR INFS703 Contemporary Information Systems
+
+
+Computational Intelligence:
+First Year:
+145612 Applied Communication
+COMP500 Programming 1
+COMP501 Computing Technology in Society
+COMP502 Foundations of IT Infrastructure
+INFS500 Enterprise Systems
+COMP503 Programming 2
+735316 Computer Network Principles (CCNA1)
+MATH502 Algebra & Discrete Mathematics
+
+Second Year:
+INFS600 Data & Process Modelling
+INFS601 Logical Database Design
+COMP600 IT Project Management
+COMP606 Foundations of Information Science
+STAT601 Statistical Methods
+COMP610 Data Structures & Algorithms OR INFS602 Physical Database Design
+
+Third Year:
+COMP717 Artificial Intelligence
+COMP723 Data Mining & Knowledge Engineering
+COMP700 Text & Vision Intelligence or Nature Inspired Computing
+COMP702 Research & Development Project Part 1
+COMP703 Research & Development Project Part 2
+
+
+
+
+
+
+
